@@ -138,3 +138,21 @@ header .hero {
    border: 2px solid #2ECC71;
    box-shadow: 0px 2px 0px 0px #22894E;
  }
+
+/* GIANT TV MEDIA QUERY! FOUND HERE: http://viewportsizes.com/?filter=tv */
+@media (min-width: 1900px) {
+  .container {
+    width:1850px;
+  }
+  header .hero h1 {
+   font-size:72px;
+   font-weight: normal;
+   margin:95px 0 0;
+  }
+  header .hero p {
+   font-size: 36px;
+   line-height: 42px;
+   font-weight: 100;
+   margin:20px 0 80px;
+  }
+}
