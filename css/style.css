@@ -290,3 +290,8 @@ header .hero {
    font-size:13px;
    margin-top: 30px;
  }
+
+ /* FUNKY STAGGERING CLASS */
+ .stagger {
+  position:relative;top:20px;
+ }
