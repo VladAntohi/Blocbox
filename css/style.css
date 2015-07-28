@@ -342,3 +342,11 @@ header .hero {
      padding: 2em 0 2em 1.5em;
    }
  }
+
+ /* Assignment 33 Code */
+ .left {
+  float:left;
+ }
+.right {
+  float:right;
+}
