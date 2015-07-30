@@ -540,3 +540,8 @@ header .hero {
    line-height: 18px;
    margin:5px 0 0;
  }
+
+ /* Assignment 34 ACTIVE Class */
+.active {
+  background-color: purple;
+}
